@@ -1,11 +1,10 @@
 # works whenever the code is pushed
-
-
-
-
 on:
   push:
     branches: [ "master" ]
+
+
+
 
 env:
   IMAGE_NAME: reactjs-image-gcp
